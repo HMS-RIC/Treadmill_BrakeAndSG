@@ -5,7 +5,7 @@ Device is used to stop a foam spherical treadmill used in virtual reality mouse 
 The microcontroller is programmed to set the servo endpoints. A 5V "TTL" input toggles between the two end points.
 
 Enter programming mode: press button `S2`, led turns on
-<br>Rotate potentimeter to one set the first servo end point, press `S1`
-<br>Rotate potentiometer to the other end point, press `S1`
+<br>Rotate potentimeter to the first servo endpoint, press `S1`
+<br>Rotate potentiometer to the other endpoint, press `S1`
 
  ![](https://github.com/HMS-RIC/Treadmill_BrakeAndSG/blob/main/photos/IMG_0716.jpeg)
