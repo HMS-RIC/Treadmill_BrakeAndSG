@@ -4,7 +4,7 @@ Device is used to brake a foam spherical treadmill used in virtual reality mouse
 
 The microcontroller is programmed to set the servo endpoints. A 3.3 V or 5V (depending on what Teensy model is used) input toggles the servo position between the two end points.
 
-## To Program the Teensy:
+## To Program the Teensy
 
 Enter programming mode: press button `S2`, led turns on
 <br>Rotate potentimeter to the first servo endpoint, press `S1`
